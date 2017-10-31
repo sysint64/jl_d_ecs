@@ -2,6 +2,7 @@
 docs.json
 __dummy.html
 docs/
+jl_d_ecs
 jl_d_ecs.so
 jl_d_ecs.dylib
 jl_d_ecs.dll

@@ -1,3 +1,3 @@
 # Description
 
-Using D and Julia together for for solving joint problems
+Using D and Julia together for solving joint problems
