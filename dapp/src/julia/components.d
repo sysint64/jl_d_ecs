@@ -3,11 +3,11 @@ module julia.components;
 import julia.types;
 
 struct Position {
-   jlFloat32 x;
-   jlFloat32 y;
+   int x;
+   int y;
 }
 
 struct Velocity {
-   jlFloat32 dx;
-   jlFloat32 dy;
+   int dx;
+   int dy;
 }

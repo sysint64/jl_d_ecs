@@ -1,9 +1,13 @@
 {
-	"name": "jl_d_ecs",
-	"authors": [
-		"Andrey Kabylin"
-	],
-	"description": "A minimal D application.",
-	"copyright": "Copyright © 2017, Andrey Kabylin",
-	"license": "proprietary"
+    "name": "jl_d_ecs",
+    "authors": [
+	"Andrey Kabylin"
+    ],
+    "description": "A minimal D application.",
+    "copyright": "Copyright © 2017, Andrey Kabylin",
+    "license": "proprietary",
+    "libs-posix": ["julia"],
+    "stringImportPaths": [
+        "../jlapp"
+    ]
 }
